@@ -22,6 +22,6 @@ setup(
     author='Shakeeb Ahamed',
     author_email='shakeebahamed456@gmail.com',
     packages=find_packages(),    
-    install_requires=get_requirements('requirements.txt')  # ✅ Fix: Correct filename
+    install_requires=get_requirements('requirements.txt')  
 )
 
